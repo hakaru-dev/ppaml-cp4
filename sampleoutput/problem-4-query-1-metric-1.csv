@@ -1,4 +1,4 @@
-doc,time_msec,sum_abs_diff
+test_doc,time_msec,sum_abs_diff
 1,958.688,0.54
 1,1138.575104,0.524
 1,1396.602112,0.48
